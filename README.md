@@ -12,9 +12,10 @@ Software Engineer passionate about building robust, scalable solutions across th
 # Core Competencies Earned:  
 * [Introduction to IT.](https://docs.google.com/document/d/1PgnjhBVCq0icO9gSxH9anlgbyqVYfjECDBBEFAOT_Qc/edit?usp=sharing)
 * Foundations of Scripting and Programming
+* Web Development Foundations.
 
 # In Progress Course:  
-* Web Development Foundations.
+* IT Leadership Foundations.
 
 # In Progress Skills:  
 * HTML
