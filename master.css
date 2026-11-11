@@ -1,0 +1,162 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --main-background-color: #2a3439;
+    --main-text-color: #f8f9fa;
+    --main-link-color: aqua;
+    --main-emphasis-color: #a8c2ab;
+    --main-font-family: Roboto, open-sans, sans-serif;
+}
+
+.audio{
+    font-style: italic, Arial;
+}
+
+hr {
+    border-color: aqua;
+}
+
+.main-content {
+    max-width: 1000px;
+    margin:0 auto;
+}
+
+body {
+    background-color: var(--main-background-color);
+    color: var(--main-text-color);
+    font-family: var(--main-font-family);
+}
+
+.Cimage {
+    width: 300px;
+    height: 300px;
+}
+
+.CGoals {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 80px;
+    font-family: Robot, open-sans, sans-serif;
+}
+
+.fontForCoverLetterText {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 80px;
+    font-family: Robot, open-sans, sans-serif;
+}
+
+.contact-info {
+    text-align: center;
+}
+
+
+td {
+    padding: 10px;
+}
+
+a {
+    color: var(--main-link-color);
+}
+
+a:hover {
+    color: rgb(3, 251, 3);
+    cursor: pointer;
+}
+
+
+em {
+    color: var(--main-emphasis-color);
+}
+
+span.checkMark {
+    color: #4c7257;
+}
+
+span.staker {
+    color: #00a4ef;
+}
+
+span.SPC {
+    color: white;
+}
+
+span.parson {
+    color: red;
+}
+
+span.morgan {
+    color: #00a4ef;
+}
+
+ul.nav-list {
+    list-style:none;
+    padding: 10px;
+}
+
+img {
+    width: 800px;
+    height: 500px;
+}
+
+.city {
+    display: block;
+    align-items: center;
+}
+
+video {
+    object-fit: contain;
+    width: 700px;
+    height: 300px;
+}
+
+#messageBox {
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.buildingList{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div label {
+    display: inline-block;
+    width: 150px;
+
+}
+
+#forBCTime {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+#amContact, #pmContact, #anyTime {
+    display: flex;
+    align-items: center;
+}
+
+#preferredConMethod {
+    font-weight: bold;
+    font-size: 1.1em;
+    display: block;
+    margin: 10px 0;
+}
+
+#pCm {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.submit input:hover {
+    cursor: pointer;
+}
+
+.submit input {
+    border: 3px solid rgb(3, 251, 3);
+    padding: 10px;
+    margin-left: 80px; 
+}
