@@ -4,7 +4,7 @@ and problem-solving grit. Facing major life transitions head-on, I channeled tha
 resilience into mastering software engineering. I have started teaching myself Python before beginning my degree,  
 I am actively progressing through core concept-building a foundational understanding without overstating my expertise.  
 Beyond the code, my years in customer service have honed my ability to bridge the gap-translating complex technical theories  
-into clear, accessible concepts for anyone.
+into clear, accessible concepts for anyone. Continuously building front-end proficiency through practical projects and version control.
 I bring a unique blend of real-world endurance and technical passion to every project I build and thing that I do.
 # Software Engineer.  
 Software Engineer passionate about building robust, scalable solutions across the stack.  
